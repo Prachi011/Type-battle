@@ -1,0 +1,17 @@
+{
+  "name": "typing-game",
+  "version": "1.0.0",
+  "description": "Competitive touch typing for JavaScript / Typescript programmers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1",
+    "websocket": "^1.0.34"
+  }
+}
